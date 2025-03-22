@@ -1,1 +1,1 @@
-This is a test read
+This is a read only test file.
